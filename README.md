@@ -39,3 +39,5 @@ Besides, the *Resident set size* (RSS), *Virtual memory size* (VMS),  *Unique Se
 In terms of *the number of Page-faults*, the number of ***Shell Sort*** is a bit smaller than that of ***Recursive Bubble Sort***. These figures are similar when running the two programs at the same time, just a slight smaller for shell sort when compared to recursive bubble sort.
 
 
+## Results
+The results for the programs run separately and the programs runs simultaneously can be found in the word document.
